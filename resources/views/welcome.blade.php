@@ -79,7 +79,7 @@
                 </div>
                 <!-- Producto 2 Mujer -->
                 <div class="producto">
-                    <img src="Imagenes/deportivoM.webp" alt="Zapato Deportivo Mujer">
+                    <img src="Imagenes/deportivoM.webp" alt="Zapato Deportivo Mujer">                                       
                     <h4>Zapato Deportivo Mujer</h4>
                     <p>Precio: $185.000</p>
                     <p>Talla: 35-36-37</p>
